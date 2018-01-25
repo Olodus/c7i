@@ -1,0 +1,6 @@
+[package]
+name = "c7i"
+version = "0.1.0"
+authors = ["Olof Düsterdieck <olof.dusterdieck@gmail.com>"]
+
+[dependencies]
