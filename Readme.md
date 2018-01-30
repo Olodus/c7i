@@ -7,6 +7,7 @@ So I figured I should make a small application for it.
 
 Goals:
 - Learn a little Rust. 
-- Maybe learn to do cli animations. 
-- Maybe some more training things later. 
+- Learn to do nice cli. 
 
+Future work:
+- Nicer animations
